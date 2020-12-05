@@ -1,0 +1,9 @@
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\bin\Debug\netcoreapp3.1\Agenda.Domain.deps.json
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\bin\Debug\netcoreapp3.1\Agenda.Domain.dll
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\bin\Debug\netcoreapp3.1\Agenda.Domain.pdb
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.csprojAssemblyReference.cache
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.AssemblyInfoInputs.cache
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.AssemblyInfo.cs
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.dll
+C:\Users\ygorp\source\repos\Agenda\Agenda.Domain\obj\Debug\netcoreapp3.1\Agenda.Domain.pdb
